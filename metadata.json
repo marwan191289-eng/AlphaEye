@@ -1,11 +1,1 @@
-<<<<<<< HEAD
 // ...existing code from e:/AlphaEya/metadata.json...
-=======
-{
-  "name": "BullBearEye - TradeXray",
-  "description": "Elite institutional-grade AI trading terminal providing forensic data analysis, blockchain netflow tracking, and neural market forecasts.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
->>>>>>> 6466315e1e273bc05b5afc7f3b80cf4ac718d9d3
