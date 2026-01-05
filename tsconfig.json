@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./",
+    "jsx": "react-jsx",
+    "strict": true,
+    "forceConsistentCasingInFileNames": true
+    ,"esModuleInterop": true
+    ,"types": ["es6-shim"]
+    ,"module": "Node16"
+    ,"moduleResolution": "node16"
+  },
+  "include": ["./**/*"]
+}
