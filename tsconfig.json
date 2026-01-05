@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+<<<<<<< HEAD
     "outDir": "./dist",
     "rootDir": "./",
     "jsx": "react-jsx",
@@ -12,3 +13,23 @@
   },
   "include": ["./**/*"]
 }
+=======
+    "target": "ES2020",
+    "module": "ESNext",
+    "lib": [
+      "ES2020",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "jsx": "react-jsx",
+    "strict": true,
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "src"
+  ]
+}
+>>>>>>> 6466315e1e273bc05b5afc7f3b80cf4ac718d9d3
